@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://mocicc.github.io/blog/</loc></url>
   <url><loc>https://mocicc.github.io/blog/about/</loc></url>
+  <url><loc>https://mocicc.github.io/blog/categories/r/</loc></url>
+  <url><loc>https://mocicc.github.io/blog/categories/v/</loc></url>
+  <url><loc>https://mocicc.github.io/blog/categories/w/</loc></url>
+  <url><loc>https://mocicc.github.io/blog/categories/y/</loc></url>
   <url><loc>https://mocicc.github.io/blog/posts/hello-world/</loc></url>
+  <url><loc>https://mocicc.github.io/blog/posts/邓紫棋-唯一-你真的懂唯一的定义-不只是如影随形/</loc></url>
   <url><loc>https://mocicc.github.io/blog/search/</loc></url>
   <url><loc>https://mocicc.github.io/blog/tags/hello/</loc></url>
+  <url><loc>https://mocicc.github.io/blog/tags/歌曲/</loc></url>
 </urlset>
